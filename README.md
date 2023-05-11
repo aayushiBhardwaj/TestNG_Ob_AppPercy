@@ -1,7 +1,5 @@
 # TestNG_Ob_AppPercy
 Basic repo for a manual languag binding (exsting TestNG BrowserStack integration) with Observability and App Percy
-# TestNG_Observability
-Integrated TestNG with Observability SDK
 
 
 # testng-appium-app-browserstack
